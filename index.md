@@ -9,7 +9,10 @@ My GitHub page is http://github.com/Matthewg657.
 ### CPSC 120
 * Lab 3
 
-     In Lab 3, 
+     In Lab 3, we calculated and coded the Basal Metabolic Rate (BMR) of men
+     and women. Using Mifflin-St Jeor's equation; we created a program to
+     calculate the user's BMR. I enjoyed this lab assingment because we created
+     and called multiple functions that worked together to find the BMR.
 
 * Lab 7
 
